@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://koveroz.github.io"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-koveroz.github.io-ffffff?style=for-the-badge&labelColor=000000" alt="Сайт"></a>
-  <a href="https://t.me/Kaveroz"><img src="https://img.shields.io/badge/Telegram-@Kaveroz-ffffff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram"></a>
+  <a href="https://t.me/Koveroz"><img src="https://img.shields.io/badge/Telegram-@Koveroz-ffffff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram"></a>
   <a href="https://wa.me/77028069558"><img src="https://img.shields.io/badge/WhatsApp-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"></a>
   <a href="https://instagram.com/koverozz"><img src="https://img.shields.io/badge/Instagram-@koverozz-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"></a>
 </p>
