@@ -24,6 +24,7 @@
     <path class="b" fill="#fff" d="M108.6 107.9 L79.0 77.2 L79.2 76.0 L88.6 66.8 L88.4 65.4 L83.6 66.0 L73.1 76.0 L50.1 83.1 L45.1 88.0 L39.6 97.5 L39.5 106.9 L40.4 108.4 L59.0 108.1 L59.4 87.0 L60.4 85.8 L62.2 85.4 L85.8 108.4 L107.9 108.5 Z"/>
     <path class="g" d="M39.6 92.6 L45.2 85.3 L49.6 81.6 L72.2 74.8 L82.8 64.6 L88.6 64.4 L93.5 62.6" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" filter="url(#glow)"/>
   </svg>
-  <text class="name txt d1" x="400" y="190">Koveroz</text>
-  <text class="sub txt d2" x="404" y="246">Веб-разработчик. Сайты для кафе, ресторанов и компаний</text>
+  <text class="name txt d1" x="400" y="176">Koveroz</text>
+  <text class="sub txt d2" x="404" y="244">Веб-разработчик</text>
+  <text class="sub txt d2" x="404" y="286">Сайты для кафе, ресторанов и компаний</text>
 </svg>
